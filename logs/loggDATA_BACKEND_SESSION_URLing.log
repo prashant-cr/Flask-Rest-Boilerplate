@@ -1,0 +1,375 @@
+5eb8d07a-6bd4-4a43-aeb5-b862e428c45a - 2020-09-09 13:37:26,583 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+f87a787a-53cb-4680-9c9b-7e4da040f688 - 2020-09-09 13:37:48,772 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+f87a787a-53cb-4680-9c9b-7e4da040f688 - 2020-09-09 13:37:48,773 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+7870c7db-7436-41ba-8f4c-8832ba15c896 - 2020-09-09 13:37:52,014 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+7870c7db-7436-41ba-8f4c-8832ba15c896 - 2020-09-09 13:37:52,016 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+4d0a91ae-9d3d-4eac-bfed-5fb9c90d0f21 - 2020-09-09 13:37:52,583 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+4d0a91ae-9d3d-4eac-bfed-5fb9c90d0f21 - 2020-09-09 13:37:52,584 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+f8c03a05-4412-4a93-93b5-c1368f28a333 - 2020-09-09 13:37:52,774 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+f8c03a05-4412-4a93-93b5-c1368f28a333 - 2020-09-09 13:37:52,774 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+0cccac6f-ad48-48d1-9f9c-1ca03e1bc9f0 - 2020-09-09 13:37:52,939 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+0cccac6f-ad48-48d1-9f9c-1ca03e1bc9f0 - 2020-09-09 13:37:52,940 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+e453d251-d105-4155-8e68-3e5ddc2f8c3b - 2020-09-09 13:37:53,136 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+e453d251-d105-4155-8e68-3e5ddc2f8c3b - 2020-09-09 13:37:53,136 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+d1eda2f2-a73b-45c4-ad10-7b4c672c2d92 - 2020-09-09 13:37:53,313 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+d1eda2f2-a73b-45c4-ad10-7b4c672c2d92 - 2020-09-09 13:37:53,315 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+40347375-7560-40c5-a25a-04e8c27d5c54 - 2020-09-09 13:37:53,473 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+40347375-7560-40c5-a25a-04e8c27d5c54 - 2020-09-09 13:37:53,474 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+db3463b2-1b55-4458-a130-67e67ab12a8a - 2020-09-09 13:37:53,623 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+db3463b2-1b55-4458-a130-67e67ab12a8a - 2020-09-09 13:37:53,624 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+29888b8e-4cf3-4698-87ee-94f1a9c80466 - 2020-09-09 13:37:53,792 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+29888b8e-4cf3-4698-87ee-94f1a9c80466 - 2020-09-09 13:37:53,793 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+1d351d5a-3820-416f-a488-78f8a87986a8 - 2020-09-09 13:37:54,340 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+1d351d5a-3820-416f-a488-78f8a87986a8 - 2020-09-09 13:37:54,341 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+63c3c5f0-d778-44e4-8916-5358cb729299 - 2020-09-09 13:37:54,525 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+63c3c5f0-d778-44e4-8916-5358cb729299 - 2020-09-09 13:37:54,526 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+5f485bc0-e2f2-42cc-8996-b08879cb8020 - 2020-09-09 13:37:54,690 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+5f485bc0-e2f2-42cc-8996-b08879cb8020 - 2020-09-09 13:37:54,691 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+a1eaebf6-cc2c-4f16-a65c-1f051f8ee3c9 - 2020-09-09 13:37:54,931 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+a1eaebf6-cc2c-4f16-a65c-1f051f8ee3c9 - 2020-09-09 13:37:54,932 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+d9785fd3-e1df-444c-a052-5b5bf8d41906 - 2020-09-09 13:37:55,148 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+d9785fd3-e1df-444c-a052-5b5bf8d41906 - 2020-09-09 13:37:55,148 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+5fe24ed8-a782-4292-baec-489c8d267a90 - 2020-09-09 13:37:55,332 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+5fe24ed8-a782-4292-baec-489c8d267a90 - 2020-09-09 13:37:55,333 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+d022d7bb-77c1-45e4-82f3-3729d519a37d - 2020-09-09 13:37:55,518 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+d022d7bb-77c1-45e4-82f3-3729d519a37d - 2020-09-09 13:37:55,519 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+d2960e61-87b3-4fe0-99a8-0c6489727486 - 2020-09-09 13:37:55,732 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+d2960e61-87b3-4fe0-99a8-0c6489727486 - 2020-09-09 13:37:55,733 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+576ad3a0-1e52-4dc9-9221-816333814ff0 - 2020-09-09 13:37:56,180 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+576ad3a0-1e52-4dc9-9221-816333814ff0 - 2020-09-09 13:37:56,180 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+7b99a4ca-52da-43fa-9802-91617e2444f3 - 2020-09-09 13:37:56,785 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+7b99a4ca-52da-43fa-9802-91617e2444f3 - 2020-09-09 13:37:56,786 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+81ec6a47-9626-4743-aa25-35be3ed4781a - 2020-09-09 13:37:57,159 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+81ec6a47-9626-4743-aa25-35be3ed4781a - 2020-09-09 13:37:57,159 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+3881adea-7b46-42bd-95b1-5edd3d81187a - 2020-09-09 13:37:57,406 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+3881adea-7b46-42bd-95b1-5edd3d81187a - 2020-09-09 13:37:57,406 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+1b2d0361-6a72-4618-b328-fe65594a958f - 2020-09-09 13:37:57,704 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+1b2d0361-6a72-4618-b328-fe65594a958f - 2020-09-09 13:37:57,705 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+72bea162-aee6-492c-976a-3b46858eb0ee - 2020-09-09 13:37:58,169 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+72bea162-aee6-492c-976a-3b46858eb0ee - 2020-09-09 13:37:58,170 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+cdc21d83-4898-49e1-8b62-8bf991ed6a18 - 2020-09-09 13:37:58,340 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+cdc21d83-4898-49e1-8b62-8bf991ed6a18 - 2020-09-09 13:37:58,340 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+331a3a17-2de0-4afe-9246-4ccd8314f9e2 - 2020-09-09 13:37:58,741 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+331a3a17-2de0-4afe-9246-4ccd8314f9e2 - 2020-09-09 13:37:58,742 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+e15c1788-650d-4640-a27c-2eb928f87bf8 - 2020-09-09 13:37:58,910 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+e15c1788-650d-4640-a27c-2eb928f87bf8 - 2020-09-09 13:37:58,910 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+7fa53b5e-0259-4d8c-be66-bcf512954d5d - 2020-09-09 13:37:59,064 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+7fa53b5e-0259-4d8c-be66-bcf512954d5d - 2020-09-09 13:37:59,065 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+9a45dfa3-0eb9-488b-bb58-ecf60e45eaed - 2020-09-09 13:37:59,199 - healthcheck.py - healthcheck - __init__ - 10 - [INFO] - In the constructor of HealthCheck
+9a45dfa3-0eb9-488b-bb58-ecf60e45eaed - 2020-09-09 13:37:59,200 - healthcheck.py - healthcheck - get - 13 - [INFO] - Health Check get api called
+d5fa8b6c-30ab-4485-8881-d861177be455 - 2020-09-09 13:49:39,281 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+e3b8a7a4-e059-4909-9a70-3ad8ca012f06 - 2020-09-09 13:49:56,506 - bank.py - bank - __init__ - 10 - [INFO] - In the constructor of BankInfo
+e3b8a7a4-e059-4909-9a70-3ad8ca012f06 - 2020-09-09 13:49:56,509 - bank.py - bank - get - 13 - [INFO] - In get method of bank info
+0779b409-bd6d-438f-9430-36881b706a80 - 2020-09-09 14:01:31,871 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+d3cf4987-613f-4d09-aee1-39ab8279bc55 - 2020-09-09 14:01:38,463 - bank.py - bank - __init__ - 11 - [INFO] - In the constructor of BankInfo
+d3cf4987-613f-4d09-aee1-39ab8279bc55 - 2020-09-09 14:01:38,465 - bank.py - bank - get - 14 - [INFO] - In get method of bank info
+d3cf4987-613f-4d09-aee1-39ab8279bc55 - 2020-09-09 14:01:38,636 - exception_handler.py - exception_handler - wrapper - 73 - [ERROR] - 'NoneType' object has no attribute 'name'
+d3cf4987-613f-4d09-aee1-39ab8279bc55 - 2020-09-09 14:01:38,641 - app.py - app - log_exception - 1780 - [ERROR] - Exception on /api/bank/info/5 [GET]
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 31, in wrapper
+    return fn(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/resources/bank.py", line 15, in get
+    response = get_bank_info(kwargs.get('bank_id'))
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/functionality/bank_info.py", line 15, in get_bank_info
+    result_set = {"bank_name": result.name, "id": result.id, "address": result.address,
+AttributeError: 'NoneType' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 75, in wrapper
+    abort(500, message="INTERNAL-ERROR")
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 29, in abort
+    original_flask_abort(http_status_code)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 762, in abort
+    return _aborter(status, *args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 743, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.InternalServerError: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+81df058b-acc7-43b3-a46e-1a59e2dc12b1 - 2020-09-09 14:01:58,559 - bank.py - bank - __init__ - 11 - [INFO] - In the constructor of BankInfo
+81df058b-acc7-43b3-a46e-1a59e2dc12b1 - 2020-09-09 14:01:58,559 - bank.py - bank - get - 14 - [INFO] - In get method of bank info
+81df058b-acc7-43b3-a46e-1a59e2dc12b1 - 2020-09-09 14:01:58,574 - exception_handler.py - exception_handler - wrapper - 73 - [ERROR] - 'NoneType' object has no attribute 'name'
+81df058b-acc7-43b3-a46e-1a59e2dc12b1 - 2020-09-09 14:01:58,580 - app.py - app - log_exception - 1780 - [ERROR] - Exception on /api/bank/info/5 [GET]
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 31, in wrapper
+    return fn(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/resources/bank.py", line 15, in get
+    response = get_bank_info(kwargs.get('bank_id'))
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/functionality/bank_info.py", line 15, in get_bank_info
+    result_set = {"bank_name": result.name, "id": result.id, "address": result.address,
+AttributeError: 'NoneType' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 75, in wrapper
+    abort(500, message="INTERNAL-ERROR")
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 29, in abort
+    original_flask_abort(http_status_code)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 762, in abort
+    return _aborter(status, *args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 743, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.InternalServerError: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+354cb3c2-b4e0-471a-9aa5-97f8cedce433 - 2020-09-09 14:02:03,346 - bank.py - bank - __init__ - 11 - [INFO] - In the constructor of BankInfo
+354cb3c2-b4e0-471a-9aa5-97f8cedce433 - 2020-09-09 14:02:03,348 - bank.py - bank - get - 14 - [INFO] - In get method of bank info
+354cb3c2-b4e0-471a-9aa5-97f8cedce433 - 2020-09-09 14:02:03,357 - exception_handler.py - exception_handler - wrapper - 73 - [ERROR] - 'NoneType' object has no attribute 'name'
+354cb3c2-b4e0-471a-9aa5-97f8cedce433 - 2020-09-09 14:02:03,365 - app.py - app - log_exception - 1780 - [ERROR] - Exception on /api/bank/info/5 [GET]
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 31, in wrapper
+    return fn(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/resources/bank.py", line 15, in get
+    response = get_bank_info(kwargs.get('bank_id'))
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/functionality/bank_info.py", line 15, in get_bank_info
+    result_set = {"bank_name": result.name, "id": result.id, "address": result.address,
+AttributeError: 'NoneType' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 75, in wrapper
+    abort(500, message="INTERNAL-ERROR")
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 29, in abort
+    original_flask_abort(http_status_code)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 762, in abort
+    return _aborter(status, *args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 743, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.InternalServerError: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+15fbc12a-c8a5-471d-b22f-422f120acbab - 2020-09-09 14:04:28,541 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+50138f6e-91cb-4aa9-bfc1-f9a7b3d4fe93 - 2020-09-09 14:04:32,514 - bank.py - bank - __init__ - 11 - [INFO] - In the constructor of BankInfo
+50138f6e-91cb-4aa9-bfc1-f9a7b3d4fe93 - 2020-09-09 14:04:32,515 - bank.py - bank - get - 14 - [INFO] - In get method of bank info
+50138f6e-91cb-4aa9-bfc1-f9a7b3d4fe93 - 2020-09-09 14:04:32,710 - exception_handler.py - exception_handler - wrapper - 33 - [ERROR] - No-Entry-Found
+e1e5d54c-727e-42ff-876c-240f5b3aef3a - 2020-09-09 14:07:53,428 - bank.py - bank - __init__ - 11 - [INFO] - In the constructor of BankInfo
+e1e5d54c-727e-42ff-876c-240f5b3aef3a - 2020-09-09 14:07:53,429 - bank.py - bank - get - 14 - [INFO] - In get method of bank info
+f9387158-b552-4b70-aa20-f040eae627a1 - 2020-09-09 14:16:18,858 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+87dd26f5-adce-4891-bda2-c1fd1ec75e22 - 2020-09-09 14:17:44,979 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+cebfdf67-d452-4339-90f8-d571c9e46b01 - 2020-09-09 14:17:49,403 - bank.py - bank - __init__ - 23 - [INFO] - In the constructor of BankInfo
+cebfdf67-d452-4339-90f8-d571c9e46b01 - 2020-09-09 14:17:49,406 - exception_handler.py - exception_handler - wrapper - 73 - [ERROR] - 'Flask' object has no attribute 'loger'
+cebfdf67-d452-4339-90f8-d571c9e46b01 - 2020-09-09 14:17:49,408 - app.py - app - log_exception - 1780 - [ERROR] - Exception on /api/bank/info [POST]
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 31, in wrapper
+    return fn(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/webargs/core.py", line 464, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/resources/bank.py", line 32, in post
+    app.loger.info("IN Post method of Bank info with parameters {}".format(kwargs))
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/local.py", line 348, in __getattr__
+    return getattr(self._get_current_object(), name)
+AttributeError: 'Flask' object has no attribute 'loger'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 75, in wrapper
+    abort(500, message="INTERNAL-ERROR")
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 29, in abort
+    original_flask_abort(http_status_code)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 762, in abort
+    return _aborter(status, *args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 743, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.InternalServerError: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+03c7497b-6778-4d3e-8266-cdd9819753ba - 2020-09-09 14:18:13,823 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+7df47ba4-20f3-4021-9ba0-75f89df5044b - 2020-09-09 14:18:17,633 - bank.py - bank - __init__ - 23 - [INFO] - In the constructor of BankInfo
+7df47ba4-20f3-4021-9ba0-75f89df5044b - 2020-09-09 14:18:17,636 - bank.py - bank - post - 32 - [INFO] - IN Post method of Bank info with parameters {'address': 'Chandni chowk, delhi', 'bank_manager': 'John', 'mobile_number': 4654656, 'name': 'Kotak Bank'}
+3e776bfb-6359-4d02-ba12-a1867873d805 - 2020-09-09 14:30:00,739 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+7ac8a204-69d0-43e1-8205-f59a86519171 - 2020-09-09 14:30:13,051 - bank.py - bank - __init__ - 24 - [INFO] - In the constructor of BankInfo
+7ac8a204-69d0-43e1-8205-f59a86519171 - 2020-09-09 14:30:13,062 - bank.py - bank - post - 33 - [INFO] - IN Post method of Bank info with parameters {'address': 'Chandni chowk, delhi', 'name': 'Kotak Bank', 'mobile_number': 4654656, 'bank_manager': 'John'}
+a8ada5a4-e4b4-432b-9ee0-d99aa3deff51 - 2020-09-09 14:31:23,490 - bank.py - bank - __init__ - 24 - [INFO] - In the constructor of BankInfo
+a8ada5a4-e4b4-432b-9ee0-d99aa3deff51 - 2020-09-09 14:31:23,494 - bank.py - bank - post - 33 - [INFO] - IN Post method of Bank info with parameters {'address': 'SB Road, Pune', 'name': 'SBi', 'mobile_number': 456456453, 'bank_manager': 'William'}
+9d9badba-3a76-43c7-9e25-c1601ec51f9e - 2020-09-09 14:31:49,307 - bank.py - bank - __init__ - 24 - [INFO] - In the constructor of BankInfo
+9d9badba-3a76-43c7-9e25-c1601ec51f9e - 2020-09-09 14:31:49,309 - bank.py - bank - post - 33 - [INFO] - IN Post method of Bank info with parameters {'address': 'MG Road, Pune', 'name': 'ICICI', 'mobile_number': 67567678, 'bank_manager': 'elis'}
+620eea69-1da3-4e0a-a250-1d5b23cb168a - 2020-09-09 14:32:25,155 - bank.py - bank - __init__ - 24 - [INFO] - In the constructor of BankInfo
+620eea69-1da3-4e0a-a250-1d5b23cb168a - 2020-09-09 14:32:25,159 - bank.py - bank - post - 33 - [INFO] - IN Post method of Bank info with parameters {'address': 'Baner Road, Pune', 'name': 'axis', 'mobile_number': 232234, 'bank_manager': 'reddy'}
+d793b27d-4023-424c-a8e1-82096f252b73 - 2020-09-09 14:34:30,396 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+352115fd-a2c5-44b4-abf5-12971db21964 - 2020-09-09 14:34:57,613 - bank.py - bank - __init__ - 31 - [INFO] - In the constructor of BankInfo
+352115fd-a2c5-44b4-abf5-12971db21964 - 2020-09-09 14:34:57,618 - exception_handler.py - exception_handler - wrapper - 57 - [ERROR] - 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+7aea825b-6e93-45c0-ab29-af920894e880 - 2020-09-09 14:35:30,079 - bank.py - bank - __init__ - 31 - [INFO] - In the constructor of BankInfo
+7aea825b-6e93-45c0-ab29-af920894e880 - 2020-09-09 14:35:30,081 - bank.py - bank - get - 35 - [INFO] - In get method of bank info
+75477d18-57ed-4aa5-87b4-58663bb9f088 - 2020-09-09 14:35:38,091 - bank.py - bank - __init__ - 31 - [INFO] - In the constructor of BankInfo
+75477d18-57ed-4aa5-87b4-58663bb9f088 - 2020-09-09 14:35:38,093 - bank.py - bank - get - 35 - [INFO] - In get method of bank info
+b7291f95-bec9-4372-962c-0366be663eb4 - 2020-09-09 14:35:42,777 - bank.py - bank - __init__ - 31 - [INFO] - In the constructor of BankInfo
+b7291f95-bec9-4372-962c-0366be663eb4 - 2020-09-09 14:35:42,782 - bank.py - bank - get - 35 - [INFO] - In get method of bank info
+4dbf2bb8-db64-44c6-acbe-457c1c4b991c - 2020-09-09 14:42:13,016 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+8100e78f-2ac0-4fe6-802d-a0b58a50d853 - 2020-09-09 14:43:26,161 - bank.py - bank - __init__ - 39 - [INFO] - In the constructor of BankInfo
+8100e78f-2ac0-4fe6-802d-a0b58a50d853 - 2020-09-09 14:43:26,171 - bank.py - bank - put - 56 - [INFO] - In Put method of Bank info
+8100e78f-2ac0-4fe6-802d-a0b58a50d853 - 2020-09-09 14:43:26,185 - exception_handler.py - exception_handler - wrapper - 73 - [ERROR] - update() got an unexpected keyword argument 'bank_manager'
+8100e78f-2ac0-4fe6-802d-a0b58a50d853 - 2020-09-09 14:43:26,186 - app.py - app - log_exception - 1780 - [ERROR] - Exception on /api/bank/info [PUT]
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 31, in wrapper
+    return fn(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/webargs/core.py", line 464, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/resources/bank.py", line 57, in put
+    response = put_bank_info(**kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/functionality/bank_info.py", line 45, in put_bank_info
+    ).update(**kwargs)
+TypeError: update() got an unexpected keyword argument 'bank_manager'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 75, in wrapper
+    abort(500, message="INTERNAL-ERROR")
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 29, in abort
+    original_flask_abort(http_status_code)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 762, in abort
+    return _aborter(status, *args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 743, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.InternalServerError: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+05ebe468-fb14-4ff7-9d22-df868a2e292c - 2020-09-09 14:46:34,585 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+6ac49e2a-83df-48cf-a21e-53955f513926 - 2020-09-09 14:46:39,621 - bank.py - bank - __init__ - 39 - [INFO] - In the constructor of BankInfo
+6ac49e2a-83df-48cf-a21e-53955f513926 - 2020-09-09 14:46:39,636 - bank.py - bank - put - 56 - [INFO] - In Put method of Bank info
+1aaf9636-5279-45b2-be18-6016205e35d2 - 2020-09-09 14:47:31,399 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+f8ddf203-272a-4c05-9d6c-525da411eec9 - 2020-09-09 14:47:34,651 - bank.py - bank - __init__ - 39 - [INFO] - In the constructor of BankInfo
+f8ddf203-272a-4c05-9d6c-525da411eec9 - 2020-09-09 14:47:34,663 - bank.py - bank - put - 56 - [INFO] - In Put method of Bank info with parameter {'bank_id': 2, 'bank_manager': 'Adam'}
+7a9d62b4-8fe9-4736-82cb-493970d49247 - 2020-09-09 14:47:55,146 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+e3f75dad-bcef-4668-895a-50e4df9211f0 - 2020-09-09 14:48:01,997 - bank.py - bank - __init__ - 39 - [INFO] - In the constructor of BankInfo
+e3f75dad-bcef-4668-895a-50e4df9211f0 - 2020-09-09 14:48:02,022 - bank.py - bank - put - 56 - [INFO] - In Put method of Bank info with parameter {'bank_id': 2, 'bank_manager': 'Adam'}
+e3f75dad-bcef-4668-895a-50e4df9211f0 - 2020-09-09 14:48:02,045 - exception_handler.py - exception_handler - wrapper - 73 - [ERROR] - update() got an unexpected keyword argument 'bank_manager'
+e3f75dad-bcef-4668-895a-50e4df9211f0 - 2020-09-09 14:48:02,047 - app.py - app - log_exception - 1780 - [ERROR] - Exception on /api/bank/info [PUT]
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 31, in wrapper
+    return fn(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/webargs/core.py", line 464, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/resources/bank.py", line 57, in put
+    response = put_bank_info(**kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/functionality/bank_info.py", line 54, in put_bank_info
+    ).update(**update_dict)
+TypeError: update() got an unexpected keyword argument 'bank_manager'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 75, in wrapper
+    abort(500, message="INTERNAL-ERROR")
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 29, in abort
+    original_flask_abort(http_status_code)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 762, in abort
+    return _aborter(status, *args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 743, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.InternalServerError: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+9a4c745c-fad0-486f-b349-797bd62bc0cf - 2020-09-09 14:49:23,958 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+f3bf804d-752e-4170-bb40-0a8a5835d547 - 2020-09-09 14:49:27,551 - bank.py - bank - __init__ - 39 - [INFO] - In the constructor of BankInfo
+f3bf804d-752e-4170-bb40-0a8a5835d547 - 2020-09-09 14:49:27,562 - bank.py - bank - put - 56 - [INFO] - In Put method of Bank info with parameter {'bank_manager': 'Adam', 'bank_id': 2}
+f3bf804d-752e-4170-bb40-0a8a5835d547 - 2020-09-09 14:49:27,570 - exception_handler.py - exception_handler - wrapper - 73 - [ERROR] - update() got an unexpected keyword argument 'bank_manager'
+f3bf804d-752e-4170-bb40-0a8a5835d547 - 2020-09-09 14:49:27,571 - app.py - app - log_exception - 1780 - [ERROR] - Exception on /api/bank/info [PUT]
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 31, in wrapper
+    return fn(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 573, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/webargs/core.py", line 464, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/resources/bank.py", line 57, in put
+    response = put_bank_info(**kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/functionality/bank_info.py", line 54, in put_bank_info
+    ).update(**update_dict)
+TypeError: update() got an unexpected keyword argument 'bank_manager'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1832, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask/app.py", line 1818, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 458, in wrapper
+    resp = resource(*args, **kwargs)
+  File "/Users/prashant.n.suthar/Projects/web/flask-boilerplate-project/utils/exception_handler.py", line 75, in wrapper
+    abort(500, message="INTERNAL-ERROR")
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/flask_restful/__init__.py", line 29, in abort
+    original_flask_abort(http_status_code)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 762, in abort
+    return _aborter(status, *args, **kwargs)
+  File "/Users/prashant.n.suthar/Prashant/virt/tenjin_backend/lib/python3.7/site-packages/werkzeug/exceptions.py", line 743, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.InternalServerError: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+23328f05-2fa6-4368-b963-dcfcea7ac106 - 2020-09-09 14:49:57,977 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+3adc2012-416e-40a2-8624-5ce18c84b0f0 - 2020-09-09 14:50:01,172 - bank.py - bank - __init__ - 39 - [INFO] - In the constructor of BankInfo
+3adc2012-416e-40a2-8624-5ce18c84b0f0 - 2020-09-09 14:50:01,179 - bank.py - bank - put - 56 - [INFO] - In Put method of Bank info with parameter {'bank_manager': 'Adam', 'bank_id': 2}
+e2aaa6ac-9b12-4a81-8b40-195c62dc1e03 - 2020-09-09 14:51:13,947 - bank.py - bank - __init__ - 39 - [INFO] - In the constructor of BankInfo
+e2aaa6ac-9b12-4a81-8b40-195c62dc1e03 - 2020-09-09 14:51:13,953 - bank.py - bank - put - 56 - [INFO] - In Put method of Bank info with parameter {'mobile_number': 456453, 'bank_manager': 'Roy', 'bank_id': 3, 'address': 'Ahmedabad'}
+14a1dd21-cf4f-4426-9bd0-c4e8e0fe87d7 - 2020-09-09 14:57:38,454 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+4b79d058-a95f-4d38-8bcc-c8ec428c077b - 2020-09-09 14:58:06,061 - bank.py - bank - __init__ - 43 - [INFO] - In the constructor of BankInfo
+4b79d058-a95f-4d38-8bcc-c8ec428c077b - 2020-09-09 14:58:06,075 - bank.py - bank - delete - 67 - [INFO] - In delete method of Bank info parameter {'bank_id': 4}
+62efc9dd-f302-4eb0-9ebe-b8a5304182ed - 2020-09-09 14:58:23,857 - bank.py - bank - __init__ - 43 - [INFO] - In the constructor of BankInfo
+62efc9dd-f302-4eb0-9ebe-b8a5304182ed - 2020-09-09 14:58:23,859 - bank.py - bank - delete - 67 - [INFO] - In delete method of Bank info parameter {'bank_id': 4}
+55195fa4-9320-4bbe-95dc-fed27ae53388 - 2020-09-09 14:58:30,374 - bank.py - bank - __init__ - 43 - [INFO] - In the constructor of BankInfo
+55195fa4-9320-4bbe-95dc-fed27ae53388 - 2020-09-09 14:58:30,376 - bank.py - bank - get - 47 - [INFO] - In get method of bank info
+55195fa4-9320-4bbe-95dc-fed27ae53388 - 2020-09-09 14:58:30,390 - exception_handler.py - exception_handler - wrapper - 33 - [ERROR] - No-Entry-Found
+babf49d6-0df2-4d0b-b9cf-d1d5c270b64d - 2020-09-09 14:59:00,139 - bank.py - bank - __init__ - 43 - [INFO] - In the constructor of BankInfo
+babf49d6-0df2-4d0b-b9cf-d1d5c270b64d - 2020-09-09 14:59:00,140 - bank.py - bank - get - 47 - [INFO] - In get method of bank info
+15dac021-d3fd-4cb5-957b-62e127440d9a - 2020-09-09 15:06:29,650 - log_utils.py - log_utils - config_logger - 52 - [INFO] - logger configured.!!!
+a2a11211-e5d4-40e3-a154-6c223b8ea68f - 2020-09-09 15:06:36,783 - bank.py - bank - __init__ - 43 - [INFO] - In the constructor of BankInfo
+a2a11211-e5d4-40e3-a154-6c223b8ea68f - 2020-09-09 15:06:36,785 - exception_handler.py - exception_handler - wrapper - 57 - [ERROR] - 422 Unprocessable Entity: The request was well-formed but was unable to be followed due to semantic errors.
+41753e3e-f2d7-4c75-834b-8433eebdd891 - 2020-09-09 15:06:48,568 - bank.py - bank - __init__ - 43 - [INFO] - In the constructor of BankInfo
+41753e3e-f2d7-4c75-834b-8433eebdd891 - 2020-09-09 15:06:48,570 - bank.py - bank - get - 47 - [INFO] - In get method of bank info
+233a58e7-af8c-4a2d-b8fb-c463f7ffcf54 - 2020-09-09 15:07:12,411 - bank.py - bank - __init__ - 43 - [INFO] - In the constructor of BankInfo
+233a58e7-af8c-4a2d-b8fb-c463f7ffcf54 - 2020-09-09 15:07:12,413 - bank.py - bank - get - 47 - [INFO] - In get method of bank info
