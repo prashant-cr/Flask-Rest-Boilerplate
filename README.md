@@ -5,7 +5,7 @@ Basic Python Project for APIs.
 
 ## Project Description
 ```
-This Project works as the Backend API for Dashboard. To set up this project on local Please follow the steps mention below:
+To set up this project on local Please follow the steps mention below:
 1. First clone the Repository from the git lab.
 2. Create a Python 3.6 virtual environment using command "virtualenv virt_name --python=python3.6".
 3. Now activate the virtual env using command "source virt_name/bin/activate".
